@@ -1,0 +1,3 @@
+Fuction(){
+	print.log('Hello')
+}
